@@ -1,5 +1,6 @@
 # Домашнее задание к занятию "2. DOM"
 
+[![Build status](https://ci.appveyor.com/api/projects/status/uend28pjdrvae5i8?svg=true)](https://ci.appveyor.com/project/vlknvd/ahj-dom)
 
 Правила сдачи задания:
 
